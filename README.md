@@ -1,5 +1,5 @@
 # TTY::Platform
-[![Gem Version](https://badge.fury.io/rb/tty-screen.svg)][gem]
+[![Gem Version](https://badge.fury.io/rb/tty-platform.svg)][gem]
 [![Build Status](https://secure.travis-ci.org/peter-murach/tty-platform.svg?branch=master)][travis]
 [![Code Climate](https://codeclimate.com/github/peter-murach/tty-platform.svg)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/peter-murach/tty-platform/badge.svg)][coverage]
