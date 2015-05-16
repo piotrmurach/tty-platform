@@ -61,7 +61,7 @@ platform.version # => '10.6.1'
 
 A `nil` is returned. Note that many platforms do not provide this information.
 
-In addition, you can use more generic methods to check the type of operating systemout of `windows`, `linux`, `mac` and `unix`:
+In addition, you can use more generic methods to check the type of operating system out of `windows`, `linux`, `mac` and `unix`:
 
 ```ruby
 platform.windows?  # => false
