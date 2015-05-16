@@ -1,7 +1,13 @@
 # TTY::Platform
 [![Gem Version](https://badge.fury.io/rb/tty-screen.svg)][gem]
+[![Build Status](https://secure.travis-ci.org/peter-murach/tty-platform.svg?branch=master)][travis]
+[![Code Climate](https://codeclimate.com/github/peter-murach/tty-platform.svg)][codeclimate]
+[![Coverage Status](https://coveralls.io/repos/peter-murach/tty-platform/badge.svg)][coverage]
 
 [gem]: http://badge.fury.io/rb/tty-platform
+[travis]: http://travis-ci.org/peter-murach/tty-platform
+[codeclimate]: https://codeclimate.com/github/peter-murach/tty-platform
+[coverage]: https://coveralls.io/r/peter-murach/tty-platform
 
 > Terminal platform query methods for detecting different operating systems.
 
