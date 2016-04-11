@@ -1,17 +1,19 @@
 # TTY::Platform
 [![Gem Version](https://badge.fury.io/rb/tty-platform.svg)][gem]
-[![Build Status](https://secure.travis-ci.org/peter-murach/tty-platform.svg?branch=master)][travis]
-[![Code Climate](https://codeclimate.com/github/peter-murach/tty-platform/badges/gpa.svg)][codeclimate]
-[![Coverage Status](https://coveralls.io/repos/peter-murach/tty-platform/badge.svg)][coverage]
+[![Build Status](https://secure.travis-ci.org/piotrmurach/tty-platform.svg?branch=master)][travis]
+[![Code Climate](https://codeclimate.com/github/piotrmurach/tty-platform/badges/gpa.svg)][codeclimate]
+[![Coverage Status](https://coveralls.io/repos/github/piotrmurach/tty-platform/badge.svg)][coverage]
+[![Inline docs](http://inch-ci.org/github/piotrmurach/tty-platform.svg?branch=master)][inchpages]
 
 [gem]: http://badge.fury.io/rb/tty-platform
-[travis]: http://travis-ci.org/peter-murach/tty-platform
-[codeclimate]: https://codeclimate.com/github/peter-murach/tty-platform
-[coverage]: https://coveralls.io/r/peter-murach/tty-platform
+[travis]: http://travis-ci.org/piotrmurach/tty-platform
+[codeclimate]: https://codeclimate.com/github/piotrmurach/tty-platform
+[coverage]: https://coveralls.io/github/piotrmurach/tty-platform
+[inchpages]: http://inch-ci.org/github/piotrmurach/tty-platform
 
 > Terminal platform query methods for detecting different operating systems.
 
-**TTY::Platform** provides independent operating system detection component for [TTY](https://github.com/peter-murach/tty) toolkit.
+**TTY::Platform** provides independent operating system detection component for [TTY](https://github.com/piotrmurach/tty) toolkit.
 
 ## Installation
 
@@ -72,7 +74,7 @@ platform.mac?      # => true
 
 ## Contributing
 
-1. Fork it ( https://github.com/peter-murach/tty-platform/fork )
+1. Fork it ( https://github.com/piotrmurach/tty-platform/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -80,4 +82,4 @@ platform.mac?      # => true
 
 ## Copyright
 
-Copyright (c) 2015 Piotr Murach. See LICENSE for further details.
+Copyright (c) 2015-2016 Piotr Murach. See LICENSE for further details.

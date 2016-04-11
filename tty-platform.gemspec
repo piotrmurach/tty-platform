@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = [""]
   spec.summary       = %q{Query methods for detecting different operating systems.}
   spec.description   = %q{Query methods for detecting different operating systems.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/piotrmurach/tty-platform"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
