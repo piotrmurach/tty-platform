@@ -1,10 +1,11 @@
-# TTY::Platform
+# TTY::Platform [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 [![Gem Version](https://badge.fury.io/rb/tty-platform.svg)][gem]
 [![Build Status](https://secure.travis-ci.org/piotrmurach/tty-platform.svg?branch=master)][travis]
 [![Code Climate](https://codeclimate.com/github/piotrmurach/tty-platform/badges/gpa.svg)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/github/piotrmurach/tty-platform/badge.svg)][coverage]
 [![Inline docs](http://inch-ci.org/github/piotrmurach/tty-platform.svg?branch=master)][inchpages]
 
+[gitter]: https://gitter.im/piotrmurach/tty
 [gem]: http://badge.fury.io/rb/tty-platform
 [travis]: http://travis-ci.org/piotrmurach/tty-platform
 [codeclimate]: https://codeclimate.com/github/piotrmurach/tty-platform
