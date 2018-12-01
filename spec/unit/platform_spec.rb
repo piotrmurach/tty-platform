@@ -1,4 +1,4 @@
-# coding: utf-8
+# frozen_string_literal: true
 
 RSpec.describe TTY::Platform, 'platform' do
   it "correctly detects windows platform" do
