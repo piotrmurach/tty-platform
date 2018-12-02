@@ -1,6 +1,8 @@
-# coding: utf-8
+# frozen_string_literal: true
 
-require 'tty/platform/version'
+require 'rbconfig'
+
+require_relative 'platform/version'
 
 module TTY
   # Detects system platform properties

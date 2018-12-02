@@ -1,4 +1,1 @@
-# coding: utf-8
-
-require 'rbconfig'
-require 'tty/platform'
+require_relative 'tty/platform'
