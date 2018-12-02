@@ -1,6 +1,12 @@
+<div align="center">
+  <a href="https://piotrmurach.github.io/tty" target="_blank"><img width="130" src="https://cdn.rawgit.com/piotrmurach/tty/master/images/tty.png" alt="tty logo" /></a>
+</div>
+
 # TTY::Platform [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
+
 [![Gem Version](https://badge.fury.io/rb/tty-platform.svg)][gem]
 [![Build Status](https://secure.travis-ci.org/piotrmurach/tty-platform.svg?branch=master)][travis]
+[![Build status](https://ci.appveyor.com/api/projects/status/f0oeux03trg78uui?svg=true)][appveyor]
 [![Code Climate](https://codeclimate.com/github/piotrmurach/tty-platform/badges/gpa.svg)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/github/piotrmurach/tty-platform/badge.svg)][coverage]
 [![Inline docs](http://inch-ci.org/github/piotrmurach/tty-platform.svg?branch=master)][inchpages]
@@ -8,6 +14,7 @@
 [gitter]: https://gitter.im/piotrmurach/tty
 [gem]: http://badge.fury.io/rb/tty-platform
 [travis]: http://travis-ci.org/piotrmurach/tty-platform
+[appveyor]: https://ci.appveyor.com/project/piotrmurach/tty-platform
 [codeclimate]: https://codeclimate.com/github/piotrmurach/tty-platform
 [coverage]: https://coveralls.io/github/piotrmurach/tty-platform
 [inchpages]: http://inch-ci.org/github/piotrmurach/tty-platform
@@ -83,4 +90,4 @@ platform.mac?      # => true
 
 ## Copyright
 
-Copyright (c) 2015-2016 Piotr Murach. See LICENSE for further details.
+Copyright (c) 2015 Piotr Murach. See LICENSE for further details.
