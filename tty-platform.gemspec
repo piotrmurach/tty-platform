@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "tty-platform"
   spec.version       = TTY::Platform::VERSION
   spec.authors       = ["Piotr Murach"]
-  spec.email         = [""]
+  spec.email         = ["me@piotrmurach.com"]
   spec.summary       = %q{Query methods for detecting different operating systems.}
   spec.description   = %q{Query methods for detecting different operating systems.}
   spec.homepage      = "https://github.com/piotrmurach/tty-platform"
@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 2.0.0'
 
-  spec.add_development_dependency "bundler", "~> 1.6"
+  spec.add_development_dependency "bundler", ">= 1.5"
   spec.add_development_dependency 'rspec', '~> 3.1'
   spec.add_development_dependency 'rake'
 end
