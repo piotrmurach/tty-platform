@@ -1,6 +1,6 @@
 # Change log
 
-## [v0.2.1] - 2019-06-05
+## [v0.2.1] - 2019-06-15
 
 ### Changed
 * Change to relax bundler dependency
