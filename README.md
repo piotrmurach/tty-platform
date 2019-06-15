@@ -19,7 +19,7 @@
 [coverage]: https://coveralls.io/github/piotrmurach/tty-platform
 [inchpages]: http://inch-ci.org/github/piotrmurach/tty-platform
 
-> Terminal platform query methods for detecting different operating systems.
+> Terminal platform query methods for detecting different operating systems and their properties.
 
 **TTY::Platform** provides independent operating system detection component for [TTY](https://github.com/piotrmurach/tty) toolkit.
 

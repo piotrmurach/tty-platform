@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = TTY::Platform::VERSION
   spec.authors       = ["Piotr Murach"]
   spec.email         = ["me@piotrmurach.com"]
-  spec.summary       = %q{Query methods for detecting different operating systems.}
-  spec.description   = %q{Query methods for detecting different operating systems.}
+  spec.summary       = %q{Query methods for detecting different operating systems and their properties.}
+  spec.description   = %q{Query methods for detecting different operating systems and their properties.}
   spec.homepage      = "https://github.com/piotrmurach/tty-platform"
   spec.license       = "MIT"
 
