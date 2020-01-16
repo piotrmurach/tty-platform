@@ -3,7 +3,7 @@
 ## [v0.3.0] - 2020-01-16
 
 ### Changed
-* Change gemspec to remove file artifacts
+* Change gemspec to update metadata and remove test artifacts
 
 ## [v0.2.1] - 2019-06-15
 
