@@ -7,15 +7,15 @@ Gem::Specification.new do |spec|
   spec.email         = ["piotr@piotrmurach.com"]
   spec.summary       = %q{Query methods for detecting different operating systems and their properties.}
   spec.description   = %q{Query methods for detecting different operating systems and their properties.}
-  spec.homepage      = "https://github.com/piotrmurach/tty-platform"
+  spec.homepage      = "https://ttytoolkit.org"
   spec.license       = "MIT"
   spec.metadata = {
     "allowed_push_host" => "https://rubygems.org",
-    "bug_tracker_uri"   => "#{spec.homepage}/issues",
-    "changelog_uri"     => "#{spec.homepage}/blob/master/CHANGELOG.md",
+    "bug_tracker_uri"   => "https://github.com/piotrmurach/tty-platform/issues",
+    "changelog_uri"     => "https://github.com/piotrmurach/tty-platform/blob/master/CHANGELOG.md",
     "documentation_uri" => "https://www.rubydoc.info/gems/tty-platform",
     "homepage_uri"      => spec.homepage,
-    "source_code_uri"   => spec.homepage
+    "source_code_uri"   => "https://github.com/piotrmurach/tty-platform"
   }
   spec.files         = Dir["lib/**/*", "README.md", "CHANGELOG.md", "LICENSE.txt"]
   spec.extra_rdoc_files = ["README.md"]
