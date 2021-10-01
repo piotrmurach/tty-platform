@@ -9,15 +9,15 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/f0oeux03trg78uui?svg=true)][appveyor]
 [![Code Climate](https://codeclimate.com/github/piotrmurach/tty-platform/badges/gpa.svg)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/github/piotrmurach/tty-platform/badge.svg)][coverage]
-[![Inline docs](http://inch-ci.org/github/piotrmurach/tty-platform.svg?branch=master)][inchpages]
+[![Inline docs](https://inch-ci.org/github/piotrmurach/tty-platform.svg?branch=master)][inchpages]
 
 [gitter]: https://gitter.im/piotrmurach/tty
-[gem]: http://badge.fury.io/rb/tty-platform
+[gem]: https://badge.fury.io/rb/tty-platform
 [gh_actions_ci]: https://github.com/piotrmurach/tty-platform/actions?query=workflow%3ACI
 [appveyor]: https://ci.appveyor.com/project/piotrmurach/tty-platform
 [codeclimate]: https://codeclimate.com/github/piotrmurach/tty-platform
 [coverage]: https://coveralls.io/github/piotrmurach/tty-platform
-[inchpages]: http://inch-ci.org/github/piotrmurach/tty-platform
+[inchpages]: https://inch-ci.org/github/piotrmurach/tty-platform
 
 > Terminal platform query methods for detecting different operating systems and their properties.
 
